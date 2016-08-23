@@ -1,0 +1,18 @@
+{
+  "name": "atom-name-that-color",
+  "main": "./lib/atom-name-that-color",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-name-that-color:toggle"
+  },
+  "repository": "https://github.com/atom/atom-name-that-color",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
