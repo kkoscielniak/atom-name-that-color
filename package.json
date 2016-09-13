@@ -1,12 +1,12 @@
 {
-  "name": "atom-name-that-color",
+  "name": "name-that-color",
   "main": "./lib/atom-name-that-color",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Name That Color plugin for Atom Code Editor",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-name-that-color:toggle"
+    "atom-workspace": "name-that-color:toggle"
   },
   "repository": "https://github.com/atom/atom-name-that-color",
   "license": "MIT",

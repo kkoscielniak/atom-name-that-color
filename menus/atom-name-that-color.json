@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle atom-name-that-color",
-        "command": "atom-name-that-color:toggle"
+        "command": "name-that-color:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-name-that-color",
+          "label": "name-that-color",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "atom-name-that-color:toggle"
+              "command": "name-that-color:toggle"
             }
           ]
         }
