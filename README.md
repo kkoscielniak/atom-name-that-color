@@ -2,7 +2,7 @@
 
 Atom plugin allowing to create Sass variables using the [Name that color](http://chir.ag/projects/name-that-color/) system.
 
-![Demo](https;//github.com/kkoscielniak/atom-name-that-color/tree/master/resources/demo.gif)
+![Demo](/resources/demo.gif)
 
 ## Commands
 | Command | Action | Default Keybind |
