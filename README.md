@@ -4,6 +4,11 @@ Atom plugin allowing to create Sass variables using the [Name that color](http:/
 
 ![Demo](https;//github.com/kkoscielniak/atom-name-that-color/tree/master/resources/demo.gif)
 
+## Commands
+| Command | Action | Default Keybind |
+|---------|--------|:-----------------:|
+| color:name | Name color selected in editor. | `ctrl-alt-.`|
+
 ## TODO
 * RGB-based colors naming
 * HSL-based colors naming
