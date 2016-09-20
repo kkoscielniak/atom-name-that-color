@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-name-that-color:toggle"
+    "ctrl-alt-.": "color:name"
   }
 }

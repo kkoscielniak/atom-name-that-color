@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-name-that-color",
-        "command": "name-that-color:toggle"
+        "label": "Name that color",
+        "command": "color:name"
       }
     ]
   },
@@ -12,15 +12,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "name-that-color",
+          "label": "Name that color",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "name-that-color:toggle"
+              "label": "Name selection",
+              "command": "color:name"
             }
           ]
         }
       ]
-    }
+  }
   ]
 }
