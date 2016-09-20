@@ -1,7 +1,7 @@
 {
   "name": "name-that-color",
   "main": "./lib/atom-name-that-color",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Name That Color plugin for Atom Code Editor",
   "keywords": ["name-that-color", "name that color"],
   "activationCommands": {
